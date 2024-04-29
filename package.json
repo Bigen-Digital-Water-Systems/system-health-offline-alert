@@ -1,0 +1,28 @@
+{
+  "name": "system-health-offline-alert",
+  "version": "1.0.0",
+  "description": "An email that is send to a set recipient and notifies the recipient an IOT device is offline after a set time specified for the device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigen-Digital-Water-Systems/system-health-offline-alert.git"
+  },
+  "keywords": [
+    "iot",
+    "device",
+    "email",
+    "alert.uptime"
+  ],
+  "author": "Hanno Vorster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigen-Digital-Water-Systems/system-health-offline-alert/issues"
+  },
+  "homepage": "https://github.com/Bigen-Digital-Water-Systems/system-health-offline-alert#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
